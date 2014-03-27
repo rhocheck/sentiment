@@ -84,7 +84,7 @@ app.get('/',
             "</HEAD>\n" +
             "<BODY>\n" +
             "<P>\n" +
-            "Hello! Welcome to the Twitter Sentiment Analysis app.<br>\n" + 
+            "Good Morning! Welcome to the Twitter Sentiment Analysis app.<br>\n" + 
             "What would you like to monitor?\n" +
             "</P>\n" +
             "<FORM action=\"/monitor\" method=\"get\">\n" +
